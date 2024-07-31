@@ -1,0 +1,6 @@
+domains:
+- js-worker-srctkrs.wasmer.app
+kind: wasmer.io/App.v0
+name: srctkrs-js-worker
+owner: srctkrs
+package: .
